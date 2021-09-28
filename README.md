@@ -32,3 +32,15 @@ There are several techniques to identify the similarity rating of a query in a t
 The formula for the cosine similarity measure between these two vectors is the following:
 
 ![Cosene similarity measure formula](images/cos.png)
+
+# How to visualize the project
+
+Open the "search-engine.ipynb" file. if you are viewing this repository from github, you can open the file directly form here.
+
+The repository consists in:
+
+* notebook (.ipynb file)
+* 12 files of the 12 chapters of Siddhartha (.txt files)
+* tweet dataset for bonus section of the project (.csv file)
+
+Made with ❤️ by homosapienssapiens
