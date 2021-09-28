@@ -18,5 +18,7 @@ https://www.gutenberg.org/ebooks/2500
 # TF-IDF
 TF-IDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. For search engines we create vectors of TF-IDF values depending on the total of words in the corpus.
 
+(images/TF-IDF.png)
+
 # Cosine similarity measure
 There are several techniques to identify the similarity rating of a query in a text. Cosine similarity measure is one of these. It measures the distance of our query vector and a given text vector by their cosine.
