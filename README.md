@@ -6,7 +6,7 @@ This project explains how to make a search engine from scratch, bassically a hom
 
 # How to visualize the project
 
-Open the "search-engine.ipynb" file. if you are viewing this repository from github, you can open the file directly form here.
+Open the [search-engine.ipynb](search-engine.ipynb) file. if you are viewing this repository from github, you can open the file directly form here.
 
 The repository consists in:
 
