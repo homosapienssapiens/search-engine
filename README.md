@@ -4,6 +4,16 @@ Search engine with  TF-IDF text vectorization and cosine similarity measure
 # Introduction
 This project explains how to make a search engine from scratch, bassically a home made google. The engine gets a group of texts, then it tokenizes, normalizes and lemmatizes. The prepared text is vectorized using TF-IDF, a technique to vectorize texts. When the user inputs a query, the engine outputs a list of each text from the more to the least similarity with the given query.
 
+# How to visualize the project
+
+Open the "search-engine.ipynb" file. if you are viewing this repository from github, you can open the file directly form here.
+
+The repository consists in:
+
+* notebook (.ipynb file)
+* 12 files of the 12 chapters of Siddhartha (.txt files)
+* tweet dataset for bonus section of the project (.csv file)
+
 # Goal
 To understand the functionality of text vectorization and search engines.
 
@@ -33,14 +43,6 @@ The formula for the cosine similarity measure between these two vectors is the f
 
 ![Cosene similarity measure formula](images/cos.png)
 
-# How to visualize the project
 
-Open the "search-engine.ipynb" file. if you are viewing this repository from github, you can open the file directly form here.
-
-The repository consists in:
-
-* notebook (.ipynb file)
-* 12 files of the 12 chapters of Siddhartha (.txt files)
-* tweet dataset for bonus section of the project (.csv file)
 
 Made with ❤️ by homosapienssapiens
