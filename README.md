@@ -10,9 +10,9 @@ Open the [search-engine.ipynb](search-engine.ipynb) file. if you are viewing thi
 
 The repository consists in:
 
-* notebook (.ipynb file)
+* Notebook (.ipynb file)
 * 12 files of the 12 chapters of Siddhartha (.txt files)
-* tweet dataset for bonus section of the project (.csv file)
+* Tweet dataset for bonus section of the project (.csv file)
 
 # Goal
 To understand the functionality of text vectorization and search engines.
