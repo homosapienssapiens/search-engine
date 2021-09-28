@@ -22,13 +22,13 @@ TF-IDF is a numerical statistic that is intended to reflect how important a word
 
 There are different formulas to get this index.
 
-![TF-IDF formulas](formulas.png)
+![TF-IDF formulas](images/formulas.png)
 
 # Cosine similarity measure
 There are several techniques to identify the similarity rating of a query in a text. Cosine similarity measure is one of these. It measures the distance of our query vector and a given text vector by their cosine.
 
-![Cosene similarity measure example](cosine.png)
+![Cosene similarity measure example](images/cosine.png)
 
 The formula for the cosine similarity measure between these two vectors is the following:
 
-![Cosene similarity measure formula](cos.png)
+![Cosene similarity measure formula](images/cos.png)
